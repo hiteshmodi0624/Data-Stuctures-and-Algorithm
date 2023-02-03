@@ -1,0 +1,2 @@
+
+            cout<<tail->data;

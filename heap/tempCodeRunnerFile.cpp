@@ -1,0 +1,1 @@
+heap*h=new heap(10);
